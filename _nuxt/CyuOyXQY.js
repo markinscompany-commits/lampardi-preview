@@ -1,1 +1,0 @@
-import{M as e,St as t,T as n,Ut as r,Vt as i,Y as a,x as o}from"./rel-EeoX.js";var s=Object.assign(e({__name:`UiIcon`,props:{name:{},size:{default:20}},setup(e){let s=e,c=o(()=>({width:`${s.size}px`,height:`${s.size}px`}));return(o,s)=>(a(),n(`span`,{class:i(`i-lmp-${e.name}`),style:r(t(c)),"aria-hidden":`true`},null,6))}}),{__name:`UiIcon`});export{s as t};

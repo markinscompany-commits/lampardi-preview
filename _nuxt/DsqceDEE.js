@@ -1,0 +1,1 @@
+import{A as e,Q as t,S as n,T as r,Y as i}from"./CNG7inIz.js";import{t as a}from"#entry";import{t as o}from"./CuNNj7gs.js";var s={},c={class:`min-h-screen flex flex-col`},l={class:`flex-1`};function u(a,s){let u=o;return i(),r(`div`,c,[n(`main`,l,[t(a.$slots,`default`)]),e(u)])}var d=a(s,[[`render`,u]]);export{d as default};

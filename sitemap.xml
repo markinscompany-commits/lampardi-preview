@@ -1046,27 +1046,12 @@
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://lampardi05.ru/payment</loc>
+    <loc>https://lampardi05.ru/return</loc>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
     <loc>https://lampardi05.ru/contacts</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://lampardi05.ru/wholesale</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://lampardi05.ru/policy</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://lampardi05.ru/offer</loc>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>

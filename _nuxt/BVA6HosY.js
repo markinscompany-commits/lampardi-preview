@@ -1,0 +1,1 @@
+import{t as e}from"./CRaQnQH0.js";function t(){return e(`wholesale`,()=>!1)}export{t};

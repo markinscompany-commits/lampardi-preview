@@ -1,0 +1,1 @@
+import{t as e}from"./CRaQnQH0.js";var t=`lmp-last-category`;function n(){let n=e(`last-category`,()=>null);function r(e){n.value=e;try{e?sessionStorage.setItem(t,e):sessionStorage.removeItem(t)}catch{}}function i(){if(n.value)return n.value;try{n.value=sessionStorage.getItem(t)}catch{}return n.value}return{remember:r,restore:i}}export{n as t};

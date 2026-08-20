@@ -1,0 +1,1 @@
+import{$ as e,L as t,P as n,j as r,nt as i}from"./3yDwD1So.js";import{t as a}from"./BDNMzG2s.js";import{t as o}from"./B_RH_71u.js";var s={},c={class:`min-h-screen flex flex-col`},l={class:`flex-1`};function u(a,s){let u=o;return e(),n(`div`,c,[r(`main`,l,[i(a.$slots,`default`)]),t(u)])}var d=a(s,[[`render`,u]]);export{d as default};

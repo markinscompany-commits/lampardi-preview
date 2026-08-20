@@ -1,0 +1,1 @@
+import{o as e}from"./3yDwD1So.js";import{dt as t}from"./CN0MI9aI.js";function n(n){let r=e().app.baseURL||`/`;return t(r,n)}function r(e,t,r,i){let a=t=>n(e.replace(/\.webp$/,`${t}.webp`)),o=n(e),s=[`${a(`-sm`)} ${t}w`];return i&&s.push(`${a(`-md`)} ${i}w`),s.push(`${o} ${r}w`),{src:o,srcset:s.join(`, `)}}export{r as n,n as t};

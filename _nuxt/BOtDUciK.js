@@ -1,0 +1,1 @@
+import{t as e}from"./FeTsj-OF.js";function t(){return e(`wholesale`,()=>!1)}export{t};
